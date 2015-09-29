@@ -1,0 +1,3 @@
+Methods are a set of steps to do something. There are different lists
+of these that are different ways that you may do the action that you want.
+Methods are good to know how to do stuff in easy steps.
