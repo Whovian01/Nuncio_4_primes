@@ -24,6 +24,8 @@ public class Nuncio_4_Challenge {
                 System.out.println("Claughton");
             } else if (isFive(i)){
                 System.out.println("Vidal");
+            } else {
+                System.out.println(i);
             }
         }
     }
