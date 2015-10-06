@@ -1,0 +1,6 @@
+Methods are statements grouped together to perform an operation
+
+Classes are different groups that things are clasified into
+
+If you dont declare a method using the"static key word, the method is an 
+instance method.
