@@ -1,0 +1,5 @@
+A Java class is a template or blue print for creating an object.
+
+It might be an outline gfor creating art or effects.
+
+A method might be a list of functions to create an object or art on Java.
