@@ -1,0 +1,7 @@
+You can count in Java by sending it an integer and a line of functions to make
+it create the number that you want.
+
+You can see if a number is divisible by putting the number, a modulo, then the
+number that you want to see if its divided by.
+
+
