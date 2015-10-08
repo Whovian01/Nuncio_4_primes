@@ -1,0 +1,6 @@
+I did not recieve credit for all of my journals because i did not submit them 
+the right way so they did not show up on GitHub; however, i have fixed this.
+
+It is importants so that the teacher knows who to give credit for the journal.
+
+".cp" is the commeanfd to copy a file.
