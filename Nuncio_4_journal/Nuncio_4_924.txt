@@ -1,0 +1,9 @@
+Steve Ballmer had called it a cancer because it infects everything it touches
+by turning it into itself.
+
+Open source software allows anyone to chnage or use it for any purpose while 
+proprietary software is any software that can not be changed, such as 
+software own by a business that tries its best not to be hacked into.
+
+The difference between the MIT license and GPL is that the MIT doesn't require
+modifications be open sourced whereas the GPL does. 
