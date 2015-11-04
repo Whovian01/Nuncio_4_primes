@@ -1,0 +1,10 @@
+A method is a set of code that acts on data and often has a return value
+and is referred to by name and can be called at
+any time in the program.
+
+A while loop is ued to add something to happen while another thing is taking 
+place or when it is true.
+
+We used a while loop do add a function to happen while the statement is true,
+a boolean to detect whether something is true or false,and a counter to count 
+how many guesses are left.
