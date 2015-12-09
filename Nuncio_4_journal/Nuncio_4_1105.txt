@@ -1,0 +1,7 @@
+A string is a sequence of characters, numbers or letters. 
+
+They allow the storage of anything that has to do with words, sentences,
+or even phone numbers.
+
+One string method is "Hello World".
+
