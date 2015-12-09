@@ -1,10 +1,10 @@
-A method is a set of code that acts on data and often has a return value
-and is referred to by name and can be called at
-any time in the program.
+A method is a set of code which is referred to by name and can be called at
+any time in the program simply by using the method's name. Each method has its
+own name and returns a value. 
 
-A while loop is ued to add something to happen while another thing is taking 
-place or when it is true.
+One method that i used was one that sees if the number that the player 
+typed in was even or not even.
 
-We used a while loop do add a function to happen while the statement is true,
-a boolean to detect whether something is true or false,and a counter to count 
-how many guesses are left.
+A while loop does what it is told to do when the boolean expression returns
+as true. It gets terminated when the expression returns as false.
+
