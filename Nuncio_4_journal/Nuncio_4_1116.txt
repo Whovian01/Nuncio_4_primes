@@ -1,0 +1,3 @@
+One method that i am using in my game is named "Sword"; It tracks whether or 
+not the player has collected the sword they have come upon in the game.
+If it returns as true then it will print "Sword added to inventory".
