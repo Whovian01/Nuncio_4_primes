@@ -1,0 +1,5 @@
+I will use while loops to have something happen if the player has killed the
+villain is a true statement.
+
+I will use methods in my game for answers that the player puts for the 
+questions in my game.
