@@ -1,0 +1,5 @@
+One challenge that my player will have to solve is to kill the evil king.
+
+\I can track whether or not they have succeeded at this by using a boolean
+to track if them killing the villain is a true statement or not. If so then
+the method will print that the evil king is killed.
