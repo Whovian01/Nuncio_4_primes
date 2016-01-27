@@ -1,0 +1,12 @@
+You make the image an object using bob.draw and it has to be in render.
+THe image is placed in a new class in the private void 
+
+    public void init(GameContainer container, StateBasedGame game)
+
+
+            throws SlickException {
+    	
+    	startimage = new Image("res/Lorelei.png");
+
+
+        this.game = game; 
