@@ -1,0 +1,4 @@
+I will create a game with a character that has to make it through the castle, 
+while avoiding the enemy and collecting the shiny red gem at the end of the
+maze. I am facing errors with creating the hitbox of the enemies but I think
+I am close to figuring it out.
