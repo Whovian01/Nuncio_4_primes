@@ -1,0 +1,8 @@
+1.Making my orb appear into the game
+2.Making my orb move
+3.Having it move depending on where my character was facing.
+4.Making my orb hit an enemy
+5.Summoning my orb
+6.Had a lot of errors in the code that took some fixing.
+7.Trouble making the code in general.
+8.Asking for help
