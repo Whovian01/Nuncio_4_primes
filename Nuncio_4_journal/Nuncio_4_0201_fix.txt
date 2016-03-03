@@ -1,0 +1,5 @@
+ 
+To clean up my code, the first thing i will do will be to delete the comments
+ left by the coder of the original Unwavering game. Then, I will get rid of
+ any System.out.printlns so the map coordinates and information do not show
+ while the game is running.
