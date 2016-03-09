@@ -1,0 +1,4 @@
+To make the orb face the direction th game character is facing, you have to 
+put a getter and a setter that will move the character based on what key the 
+player is pressing. Then, you will have the orb move when the direction is set, 
+and the orb will move according to what direction it is being told to move in. 
