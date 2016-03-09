@@ -1,0 +1,25 @@
+This code sets up the spritesheet for the player class and also all of the 
+frames for the character's movement.
+
+It would be unrealistic to memorize Slick syntax because we are trying to learn 
+to solve problems through the basic knowledge we have, and not through
+memorization.
+	
+An array is a list of things; it can be ints or Strings.
+	
+To make an array, you would write either int[] or String[], and the name of 
+the array. Then, you would write = new int[]String[];. However, you could just 
+fill in what the array is, such as = {"Hello", "World", "!"};.
+	
+An ArrayList is like an array, but an ArrayList can have more things added to 
+the list instead of having a static amount of things in it.
+	
+To make an ArrayList, you would write ArrayList<int/String> obj = new 
+ArrayList<int/String>();
+	
+The ArrayList can have more things added to the list instead of having a 
+static amount of things in the list, like an array.
+	
+To make a health counter for an avatar, we could have an array or an ArrayList 
+that has numbers 1-100, and then we could count that number down everytime the 
+player loses health.
