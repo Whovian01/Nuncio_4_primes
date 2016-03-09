@@ -6,7 +6,7 @@ THe image is placed in a new class in the private void
 
             throws SlickException {
     	
-    	startimage = new Image("res/Lorelei.png");
+    	startimage = new Image("res/Cat.png");
 
 
         this.game = game; 
