@@ -1,0 +1,29 @@
+
+1. Arrays are used for creating a list of things inside a Java program.
+
+2. The code for an int array would be int[] = new int[3]. 
+
+3. The code for a String array would be String[] = new String[3].
+	
+4. The code for a boolean array would be array[] = new array[3].
+	
+5. The code for a double array would be double[] = new double[3].
+	
+6. The code would be int[] numbers = new int[3], and then numbers[0] = 42.
+
+7. The code would be String[] words = new String[3], and then words[0] = "Bob".
+	
+8. This creates a String array called desert that has three elements.
+
+9. This creates a String array called postres that has the foods listed as its 
+elements.
+
+10. They are different because the first does not fill in the elements, while 
+the second one does.
+	
+11.The code would be postres[2] = "apple pie".
+
+    
+
+
+
