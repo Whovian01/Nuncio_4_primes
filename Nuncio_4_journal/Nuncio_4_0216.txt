@@ -1,0 +1,5 @@
+One array that was used in our games was to keep track of all of the tiles,
+and to see if they were blocked, meaning the player could not go through them
+
+We could use an array for a program that lists different names from 
+an array, and pairs them with other words from another array.
