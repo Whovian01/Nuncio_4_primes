@@ -1,0 +1,3 @@
+To check to see if weapons damage enemies or objects in our game, you would 
+turn on the objects' hitbox to see if they intersect. If they did then i would
+check and see if the correct variables are set, such as damage and its amount.
