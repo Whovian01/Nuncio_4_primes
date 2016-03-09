@@ -1,0 +1,3 @@
+By revising our code, we will have a better understanding of what our 
+code. We will also learn the correct way to clean up a game or project 
+like the one we have created, to help us make more of them in the future.
