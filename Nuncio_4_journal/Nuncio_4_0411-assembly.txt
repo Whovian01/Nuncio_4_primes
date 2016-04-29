@@ -1,0 +1,18 @@
+Assembly is a low-level symbolic code converted by an assembler. 
+
+Assembly is good for learning exactly how the code works, because
+you will be coding EXACTLY what you need. It is also for direct
+hardware manipulation.
+
+Assembly is a low-level language, while Java is a high-level 
+language.
+
+Low level languages are deep into the computer and tied very closely to
+the machine details. High level languages are focused on letting the 
+coder concentrate on the logic of the problem to be solved rather than 
+having them focus on the intricaties of the machine's architecture.
+
+Java is a high level language. Java is all about fixing the problem, 
+rather actually coding into the hardware.
+
+ 
