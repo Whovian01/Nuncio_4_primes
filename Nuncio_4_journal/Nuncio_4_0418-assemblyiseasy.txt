@@ -1,0 +1,32 @@
+
+The reason for typing elf64 was to know how many bits the program is.
+
+ld is used to load the program
+
+We didn't have to use chmod to make it executable because it has already been
+executed at the file level.
+
+
+global _start
+
+	section .text
+_start:
+	; write(1, message, 13)
+	mov	rax, 1
+	mov	rdi, 1
+	mov	rsi, message
+	mov	rdx, 15
+
+	;exit(0)
+	mov	eax, 60
+	xor	rdi, rdi
+	syscall
+message:
+	db	"Catrina Nuncio", 10
+
+
+This is not at all easy or quick because you have to code everything in depth,
+not just type using already made libraries. 
+
+Low level means 'down to the real basic code', and not something that
+accesses premade libraries where everything is done for you already.
